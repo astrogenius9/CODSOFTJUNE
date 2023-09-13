@@ -1,2 +1,3 @@
 # CODSOFTJUNE
-This has the calculator task 
+This has the 3 tasks I finished
+
